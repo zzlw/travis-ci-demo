@@ -1,5 +1,6 @@
 ## What is Travis CI?
 
+![zzlw](https://travis-ci.org/zzlw/travis-ci-demo.svg?branch=demo01)
 [Travis CI](https://travis-ci.org/) is a hosted [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) platform that is free for all open source projects hosted on Github.
 
 With a file called `.travis.yml`, you can trigger automated builds with every change to your repo.
